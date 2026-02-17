@@ -1,11 +1,14 @@
 No,Name,Type1,Type2,Height,Weight,Legendary
 1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
 2,Ivysaur,Grass,Poison,1,13,0
 3,Venusaur,Grass,Poison,2,100,0
 4,Charmander,Fire,,0.6,8.5,0
 5,Charmeleon,Fire,,1.1,19,0
 6,Charizard,Fire,Flying,1.7,90.5,0
 7,Squirtle,Water,,0.5,9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
 8,Wartortle,Water,,1,22.5,0
 9,Blastoise,Water,,1.6,85.5,0
 10,Caterpie,Bug,,0.3,2.9,0
@@ -38,9 +41,11 @@ No,Name,Type1,Type2,Height,Weight,Legendary
 37,Vulpix,Fire,,0.6,9.9,0
 38,Ninetales,Fire,,1.1,19.9,0
 39,Jigglypuff,Normal,Fairy,0.5,5.5,0
+37,Vulpix,Fire,,0.6,9.9,0
 40,Wigglytuff,Normal,Fairy,1,12,0
 41,Zubat,Poison,Flying,0.8,7.5,0
 42,Golbat,Poison,Flying,1.6,55,0
+37,Vulpix,Fire,,0.6,9.9,0
 43,Oddish,Grass,Poison,0.5,5.4,0
 44,Gloom,Grass,Poison,0.8,8.6,0
 45,Vileplume,Grass,Poison,1.2,18.6,0
