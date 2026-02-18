@@ -1,9 +1,12 @@
-def add(a, b):
-    print(a + b)
+import numpy as np
+import pandas as pd
 
 
-add(20, 10)
+arr = np.array([1, 2, 3, 4, 5])
 
-list1 = [1, 2, 3, 4, 5, 6]
+series = pd.Series(["Naisha", "Roski"])
 
-print(list1)
+df = pd.DataFrame({"Name": ["Naisha", "Roski"], "Age": [12, 9]})
+
+print(series)
+print(df)
