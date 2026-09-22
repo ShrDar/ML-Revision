@@ -2,7 +2,7 @@ import torch
 
 x = torch.arange(9)
 
-x_3x3 = x.view(3, 3)  # it need to be in a contiguious block of memory
+x_3x3 = x.view(3, 3)  # it needs to be in a contiguious block of memory
 x_3x3 = x.reshape(3, 3)  # it doesn't need to be in a contiguous block of memory
 
 y = x_3x3.t()
