@@ -1,10 +1,9 @@
-import torch
-from torch import nn
 import numpy as np
+import torch
 from sklearn import datasets
-from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
-import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
+from torch import nn
 
 # 0. Data Preparation
 
